@@ -101,8 +101,8 @@ Currently studying at Kalinga Institute of Industrial Technology 🎓
 ---
 
 <p align="center">
-  🤝 Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SayanMallick55/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=SayanMallick55&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
